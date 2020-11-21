@@ -2,7 +2,7 @@
 
 This tool fetch data from JHU's [daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports).
 
-The time series generated could be found [here](myrepo).
+The time series generated could be found [here](https://github.com/G-Lorenz/covid19-time_series).
 
 With little effort it could be adapted to every report that resembles JHU's.
 
